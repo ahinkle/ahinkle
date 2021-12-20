@@ -4,7 +4,7 @@ I'm Andy Hinkle. I'm from Southern Indiana 🌽 -- originally from Oklahoma🌪�
 
 You can find me on [Twitter](https://twitter.com/andyhnk) or [LinkedIn](https://www.linkedin.com/in/athinkle/).
 
-- 🔭 I’m currently working on: cool stuff at @grayloon
+- 🔭 I’m currently working on: cool stuff at [@grayloon](https://github.com/grayloon)
 - 🌱 I’m currently learning: [Remix JS](https://remix.run/)
 - 🤓 I’m currently nerding out on: James Webb Space Telescope
 - 🤩 I'm looking forward to: Laracon US 2022 (in-person again?!)
