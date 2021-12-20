@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ahinkle/ahinkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andy Hinkle. I'm from Southern Indiana 🌽 -- originally from Oklahoma🌪️. I'm a senior developer at [Gray Loon Marketing Group](https://grayloon.com/) where we work on PHP and JavaScript applications ranging from large outdoor clients to small local vendors and everything in between.
 
-Here are some ideas to get you started:
+You can find me on [Twitter](https://twitter.com/andyhnk) or [LinkedIn](https://www.linkedin.com/in/athinkle/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cool stuff I love to support:
+- Laravel
+- Laravel Livewire
+- Inertia.js
+- Tailwind CSS
+- Alpine.js
+- VSCode
+
+- 🔭 I’m currently working on: cool stuff at @grayloon
+- 🌱 I’m currently learning: [Remix JS](https://remix.run/)
+- 🤓 I’m currently nerding out on: James Webb Space Telescope
+- 🤩 I'm looking forward to: Laracon US 2022 (in-person again?!)
