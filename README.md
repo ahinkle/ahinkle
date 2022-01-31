@@ -7,4 +7,4 @@ You can find me on [Twitter](https://twitter.com/andyhnk) or [LinkedIn](https://
 - 🔭 I’m currently working on: cool stuff at [@grayloon](https://github.com/grayloon)
 - 🌱 I’m currently learning: [Remix](https://remix.run/)
 - 🤓 I’m currently nerding out on: [Wordle](https://powerlanguage.co.uk/wordle/)
-- 🤩 I'm looking forward to: Laracon US 2022 (in-person again?!)
+- 🤩 I'm looking forward to: [Laracon Online](https://laracon.net/)
