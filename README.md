@@ -5,8 +5,8 @@ I'm Andy Hinkle. I'm from 🌽Southern Indiana -- originally from 🌪️Oklahom
 You can find me on [Twitter](https://twitter.com/andyhnk) or [LinkedIn](https://www.linkedin.com/in/athinkle/).
 
 - 🔭 I’m currently working on: cool stuff at [@grayloon](https://github.com/grayloon)
-- 🌱 I’m currently learning: [Statamic](https://statamic.com)
-- 🤓 I’m currently nerding out on: [Duolingo (Italian)](https://www.duolingo.com/)
-- 🤩 I'm looking forward to: [Laravel Nova v4](https://nova.laravel.com/)
+- 🌱 I’m currently learning: [NextJS](https://nextjs.org/)
+- 🤓 I’m currently nerding out on: [Statamic](https://statamic.com)
+- 🤩 I'm looking forward to: [DALL·E 2](https://openai.com/dall-e-2/)
 
 [#StandWithUkraine](https://standwithukraine.live/)
