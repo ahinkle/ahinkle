@@ -6,4 +6,4 @@ You can find me on [Twitter](https://twitter.com/andyhnk) or [LinkedIn](https://
 
 - 🔭 I’m currently working on: cool stuff at [@grayloon](https://github.com/grayloon)
 - 🌱 I’m currently learning: [React Native](https://reactnative.dev/)
-- 🤓 I’m currently nerding out on: [Laracon Online 2022](https://laracon.net/)
+- 🤓 I’m currently nerding out on: [React Native](https://reactnative.dev/)
