@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I'm Andy Hinkle. I'm from 🌽Southern Indiana -- originally from 🌪️Oklahoma. I'm a senior developer at [Gray Loon Marketing Group](https://grayloon.com/) where we work on PHP and JavaScript applications ranging from large outdoor clients to small local vendors and everything in between.
+I'm Andy Hinkle. Living in 🌽 Southern Indiana; originally from 🌪️ Oklahoma. 
 
-You can find me on [Twitter](https://twitter.com/andyhnk) or [LinkedIn](https://www.linkedin.com/in/athinkle/).
+- 👨‍💻 Senior developer at [Gray Loon Marketing Group](https://grayloon.com/).
+- 💻 Laravel Core Contributor and [/r/Laravel](https://reddit.com/r/laravel) moderator.
+- 🔎 You can find me on [Twitter](https://twitter.com/andyhnk) or [LinkedIn](https://www.linkedin.com/in/athinkle/).
+- ☕️  Surviving most days with good coffee.
+- 🔭 Currently working on: cool stuff at [@grayloon](https://github.com/grayloon)
+- 🌱 Currently learning: [React Native](https://reactnative.dev/)
+- 🤓 Currently nerding out on: [InertiaJS](https://inertiajs.com/)
 
 [![wakatime](https://wakatime.com/badge/user/3ead2445-b9ef-411b-bb4a-8a4f6aa7618d.svg?style=for-the-badge)](https://wakatime.com/@3ead2445-b9ef-411b-bb4a-8a4f6aa7618d)
-
-- 🔭 I’m currently working on: cool stuff at [@grayloon](https://github.com/grayloon)
-- 🌱 I’m currently learning: [React Native](https://reactnative.dev/)
-- 🤓 I’m currently nerding out on: [InertiaJS](https://inertiajs.com/)
