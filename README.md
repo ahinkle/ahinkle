@@ -12,5 +12,3 @@ I'm Andy Hinkle. Living in 🌽 Southern Indiana; originally from 🌪️ Oklaho
 
 [![wakatime](https://wakatime.com/badge/user/3ead2445-b9ef-411b-bb4a-8a4f6aa7618d.svg?style=for-the-badge)](https://wakatime.com/@3ead2445-b9ef-411b-bb4a-8a4f6aa7618d)
 
-
-<sup>Not accepting freelancing/contract opportunities at this time - thank you.</sup>
