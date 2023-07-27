@@ -2,11 +2,9 @@
 
 I'm Andy Hinkle. Living in 🌽 Southern Indiana; originally from 🌪️ Oklahoma. 
 
-- 👨‍💻 Senior developer at [Gray Loon Marketing Group](https://grayloon.com/).
 - 💻 Laravel Core Contributor and [/r/Laravel](https://reddit.com/r/laravel) moderator.
-- 🔎 You can find me on [Twitter](https://twitter.com/andyhnk) or [LinkedIn](https://www.linkedin.com/in/athinkle/).
+- 🔎 You can find me on [Twitter](https://twitter.com/andyhnk).
 - ☕️  Surviving most days with good coffee.
-- 🔭 Currently working on: cool stuff at [@grayloon](https://github.com/grayloon)
 - 🌱 Currently learning: [React Native](https://reactnative.dev/)
 - 🤓 Currently nerding out on: [Laracon US](https://laracon.us/)
 
