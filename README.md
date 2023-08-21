@@ -2,9 +2,9 @@
 
 I'm Andy Hinkle. Living in 🌽 Southern Indiana; originally from 🌪️ Oklahoma. 
 
-- 💻 Laravel Core Contributor and [/r/Laravel](https://reddit.com/r/laravel) moderator.
-- 🔎 You can find me on [Twitter](https://twitter.com/andyhnk).
-- ☕️  Surviving most days with good coffee.
+- 💻 Laravel Core Contributor and [/r/Laravel](https://reddit.com/r/laravel) moderator
+- 🔎 You can find me on [Twitter (or is it X now?)](https://twitter.com/andyhnk)
+- ☕️  Surviving most days with good coffee
 - 🌱 Currently learning: [React Native](https://reactnative.dev/)
 - 🤓 Currently nerding out on: [Filament PHP](https://filamentphp.com/)
 
