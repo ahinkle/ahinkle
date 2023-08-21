@@ -6,7 +6,7 @@ I'm Andy Hinkle. Living in 🌽 Southern Indiana; originally from 🌪️ Oklaho
 - 🔎 You can find me on [Twitter](https://twitter.com/andyhnk).
 - ☕️  Surviving most days with good coffee.
 - 🌱 Currently learning: [React Native](https://reactnative.dev/)
-- 🤓 Currently nerding out on: [Laracon US](https://laracon.us/)
+- 🤓 Currently nerding out on: [Filament PHP](https://filamentphp.com/)
 
 [![wakatime](https://wakatime.com/badge/user/3ead2445-b9ef-411b-bb4a-8a4f6aa7618d.svg?style=for-the-badge)](https://wakatime.com/@3ead2445-b9ef-411b-bb4a-8a4f6aa7618d)
 
