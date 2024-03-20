@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Andy Hinkle. Living in 🌽 Southern Indiana; originally from 🌪️ Oklahoma. 
+I'm Andy Hinkle, based in Southern Indiana and originally from Oklahoma.
 
-- 💻 Laravel Core Contributor and [/r/Laravel](https://reddit.com/r/laravel) moderator
+- 💻 Involved in various open-source initiatives, primarily [Laravel](https://laravel.com)
 - 🔎 You can find me on X, [@andyhnk](https://twitter.com/andyhnk)
 - ☕️  Surviving most days with good coffee
 - 🌱 Currently learning: [Expo Go](https://expo.dev/)
