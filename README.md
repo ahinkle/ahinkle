@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Andy Hinkle, a software developer based in Indiana, originally from Oklahoma. I specialize in JavaScript and PHP, creating dynamic solutions with tools such as Laravel, Livewire, and React Native.
+I'm Andy Hinkle, a software developer based in Indiana. I specialize in JavaScript and PHP, creating dynamic solutions with tools such as Laravel, Livewire, and React Native.
 
 - 💻 Involved in various open-source initiatives, primarily [Laravel](https://laravel.com)
 - 🔎 You can find me on X, [@andyhnk](https://twitter.com/andyhnk)
